@@ -4,6 +4,12 @@
 
 The Rule Management System is a web application that allows users to create, modify, combine, and evaluate rules defined in a specific string format. The application is built using React for the frontend and Flask with SQLAlchemy for the backend.
 
+
+
+![Rule](image.png)
+
+
+
 ## Features
 
 - **Create Rules**: Users can create new rules by entering a rule string.
@@ -83,3 +89,4 @@ The Rule Management System is a web application that allows users to create, mod
    ```bash
    python main.py
    ```
+
